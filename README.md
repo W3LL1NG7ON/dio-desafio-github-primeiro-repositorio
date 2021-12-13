@@ -1,4 +1,4 @@
-# Desafio do Projeto Git/Github da DIO (Digital Innovation One)
+# Desafio do Projeto Git/GitHub da DIO (Digital Innovation One)
 Repositório Criado Para o Desafio de Projeto.
 
 ## Links Úteis
