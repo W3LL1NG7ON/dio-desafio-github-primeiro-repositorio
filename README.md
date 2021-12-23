@@ -4,7 +4,7 @@ Repositório Criado Para o Desafio de Projeto.
 ## Links Úteis
 [sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
 
-# Introdu-o-ao-HTML-e-CSS
+# Introdução-ao-HTML-e-CSS
 
 projeto criação de site pessoal do curso introdução ao curso de html do bootcamp MRV da DIO
 
@@ -15,3 +15,7 @@ projeto criação de site pessoal do curso introdução ao curso de html do boot
 ## introdução ao bootstrap
 
 [site do bootstrap](https://getbootstrap.com/)
+
+## introdução ao java script
+
+[site node.js](https://nodejs.org/en/)
